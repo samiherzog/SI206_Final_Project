@@ -1,0 +1,11 @@
+
+Commands available:
+
+<zipcode> buy
+  Description: Lists the top properties available for sale within your given zip code.
+
+<zipcode> rent
+  Description: Lists the top properties available for rent within your given zip code.
+
+plot
+  Description: Displays four different graphs of the collected data.
